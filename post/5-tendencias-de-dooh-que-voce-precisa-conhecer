@@ -16,9 +16,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -32,8 +31,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -54,7 +53,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -119,15 +118,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
+                        <img src='/static/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Inviron
+                            Nirooh
                         </div>
                         <p>
-                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
+                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
                         </p>
-                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -156,41 +155,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/advertising-as-a-factor-of-influence-in-the-formation-of-memory" class="blog-item-wrap w-inline-block">
+                        <a href="/post/corporate-communication-integration-and-marketing-a-perfect-combination" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
                             <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Advertising as a Factor of Influence in the Formation of Memory</div>
-                            <p class="blog-item-summary">Explore how advertising influences the formation of our memory and how that affects our perception of the world</p>
+                            <div class="blog-item-name">Corporate Communication Integration and Marketing: A Perfect Combination?</div>
+                            <p class="blog-item-summary">Understand how corporate communication integration and marketing can improve your companys image and increase conversions</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-importancia-da-personalizacao-na-comunicacao-de-marca-em-meios-digitais" class="blog-item-wrap w-inline-block">
+                        <a href="/post/publicidade-persuasiva-nas-redes-sociais-e-conformidade" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/1878.png" loading="lazy" alt="A Importância da Personalização na Comunicação de Marca em Meios Digitais" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">marketing digital</div>
-                            <div class="blog-item-name">A Importância da Personalização na Comunicação de Marca em Meios Digitais</div>
-                            <p class="blog-item-summary">A personalização na comunicação de marca em meios digitais é essencial para conectivre com o seu público-alvo e impulsionar o sucesso da marca.</p>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">Publicidade Persuasiva nas Redes Sociais e Conformidade</div>
+                            <p class="blog-item-summary">Descubra como a publicidade persuasiva nas redes sociais impacta a conformidade dos usuários</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-crise-da-autenticidade-no-mundo-das-relacoes-publicas" class="blog-item-wrap w-inline-block">
+                        <a href="/post/o-papel-da-empatia-na-estrategia-de-engajamento" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/420.png" loading="lazy" alt="A Crise da Autenticidade no Mundo das Relações Públicas" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">engajamento</div>
-                            <div class="blog-item-name">A Crise da Autenticidade no Mundo das Relações Públicas</div>
-                            <p class="blog-item-summary">Entenda a crise da autenticidade nas relações públicas e como isso afeta a sua maracuja no mercado</p>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">O Papel da Empatia na Estratégia de Engajamento</div>
+                            <p class="blog-item-summary">Descubra como a empatia pode ser um fator decisivo para um engajamento mais eficaz nos seus processos de marketing e comunicação.</p>
                         </a>
                     </div>
                     

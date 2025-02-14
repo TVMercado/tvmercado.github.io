@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
+                        <img src='/static/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Nirooh
+                            Inviron
                         </div>
                         <p>
-                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
+                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
                         </p>
-                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/marketing-sustentavel-para-empresas-de-tecnologia" class="blog-item-wrap w-inline-block">
+                        <a href="/post/out-of-home-media-the-impact-of-advertising-on-the-public-space" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/_2472a325-a57a-4ca1-9ee0-ac5120281c6c.jpg" loading="lazy" alt="Out-of-Home Media: The Impact of Advertising on the Public Space" class="blog-thumbnail" />
                                 
                             </div>
-                            <div class="blog-item-category"></div>
-                            <div class="blog-item-name">Marketing Sustentável para Empresas de Tecnologia</div>
-                            <p class="blog-item-summary">Descubra como implementar um marketing sustentável para empresas de tecnologia e melhorar sua visibilidade na internet</p>
+                            <div class="blog-item-category">media</div>
+                            <div class="blog-item-name">Out-of-Home Media: The Impact of Advertising on the Public Space</div>
+                            <p class="blog-item-summary">Understand how outdoor advertising can influence people and improve your brand.</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/midia-out-of-home-conceitos-e-estrategias-para-comunicacao-efectiva" class="blog-item-wrap w-inline-block">
+                        <a href="/post/how-customer-experience-can-be-improved-with-the-use-of-digital-signage" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/_7e81990e-76c1-4a7d-98b5-e627601cd1e5.jpg" loading="lazy" alt="Mídia Out-of-Home: conceitos e estratégias para comunicação efectiva" class="blog-thumbnail" />
+                                
                                 
                             </div>
                             <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Mídia Out-of-Home: conceitos e estratégias para comunicação efectiva</div>
-                            <p class="blog-item-summary">Desbloqueie o potencial da Mídia Out-of-Home para a sua marca.</p>
+                            <div class="blog-item-name">How Customer Experience Can Be Improved With the Use of Digital Signage</div>
+                            <p class="blog-item-summary">Discover how digital signage can improve customer experience in commercial establishments</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/o-papel-da-analise-de-desempenho-na-publicidade-digital" class="blog-item-wrap w-inline-block">
+                        <a href="/post/intersection-of-out-of-home-advertising-with-artificial-intelligence-opportunities-and-challenges" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">marketing digital</div>
-                            <div class="blog-item-name">O Papel da Análise de Desempenho na Publicidade Digital</div>
-                            <p class="blog-item-summary">Entenda o papel crucial da análise de desempenho na publicidade digital para otimizar suas campanhas</p>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">Intersection of Out-of-Home Advertising with Artificial Intelligence: Opportunities and Challenges</div>
+                            <p class="blog-item-summary">Understand how artificial intelligence is changing out-of-home advertising and what that means for companies</p>
                         </a>
                     </div>
                     

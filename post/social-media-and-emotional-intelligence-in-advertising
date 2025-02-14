@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
+                        <img src='/static/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            IFS
+                            Nirooh
                         </div>
                         <p>
-                            A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
+                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
                         </p>
-                        <div class="button-wrap"><a href="https://www.ifspro.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/o-papel-da-experiencia-do-usuario-na-publicidade-de-vitrines-digitais" class="blog-item-wrap w-inline-block">
+                        <a href="/post/estrategias-de-contenido-para-fomentar-a-engajamento" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/669.png" loading="lazy" alt="O Papel da Experiência do Usuário na Publicidade de Vitrines Digitais" class="blog-thumbnail" />
+                                
                                 
                             </div>
                             <div class="blog-item-category">marketing digital</div>
-                            <div class="blog-item-name">O Papel da Experiência do Usuário na Publicidade de Vitrines Digitais</div>
-                            <p class="blog-item-summary">Entenda o papel da experiência do usuário na publicidade de vitrines digitais e como melhorar a interação com seus clientes.</p>
+                            <div class="blog-item-name">Estratégias de Contenido para Fomentar a Engajamento</div>
+                            <p class="blog-item-summary">Descubra as estratégias de conteúdo para incrementar a engajamento com os seus espectadores.</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/midia-out-of-home-o-que-voce-precisa-saber-sobre-propaganda-exterior" class="blog-item-wrap w-inline-block">
+                        <a href="/post/estrategias-de-engajamento-em-marketing-de-influencia" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/692.png" loading="lazy" alt="Estratégias de Engajamento em Marketing de Influência" class="blog-thumbnail" />
+                                
+                            </div>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">Estratégias de Engajamento em Marketing de Influência</div>
+                            <p class="blog-item-summary">Entenda como os influenciadores podem atraírem e engajar seu público em/marketing_stratégias_de_engajamento_em_marketing_de_influência</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/midia-out-of-home-o-mundo-das-mensagens-visuais" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
                             <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Mídia Out-of-Home: o que você precisa saber sobre propaganda exterior</div>
-                            <p class="blog-item-summary">Entenda melhor sobre a mídia out-of-home e como ela pode ser utilizada para promover seus produtos ou serviços.</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/the-impact-of-advertising-on-digital-events-on-navigation-for-content" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                
-                                
-                            </div>
-                            <div class="blog-item-category">advertising</div>
-                            <div class="blog-item-name">The Impact of Advertising on Digital Events on Navigation for Content</div>
-                            <p class="blog-item-summary">Understand how advertising at digital events affects navigation through content in the digital medium</p>
+                            <div class="blog-item-name">Mídia Out-of-Home: o mundo das mensagens visuais</div>
+                            <p class="blog-item-summary">Entenda como as mensagens visuais alcançam grandes audiências ao longo de caminhos públicos</p>
                         </a>
                     </div>
                     

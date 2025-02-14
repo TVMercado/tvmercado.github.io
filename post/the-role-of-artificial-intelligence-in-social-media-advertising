@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
+                        <img src='/static/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Inviron
+                            IFS
                         </div>
                         <p>
-                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
+                            A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
                         </p>
-                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://www.ifspro.com.br/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/o-papel-da-inteligencia-artificial-na-publicidade-out-of-home-casos-de-sucesso" class="blog-item-wrap w-inline-block">
+                        <a href="/post/o-impacto-da-privacidade-nos-meios-digitais-de-comunicacao" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/534.png" loading="lazy" alt="O Papel da Inteligência Artificial na Publicidade Out-of-Home: Casos de Sucesso" class="blog-thumbnail" />
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/1867.png" loading="lazy" alt="O Impacto da Privacidade nos Meios Digitais de Comunicação" class="blog-thumbnail" />
+                                
+                            </div>
+                            <div class="blog-item-category">privacidade</div>
+                            <div class="blog-item-name">O Impacto da Privacidade nos Meios Digitais de Comunicação</div>
+                            <p class="blog-item-summary">Descubra como a privacidade está relacionada à segurança digital e os riscos que podemos enfrentar ao compartilhar informações online</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/a-eficacia-da-publicidade-em-cenarios-de-crise" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                
+                                
+                            </div>
+                            <div class="blog-item-category">publicidade em crises</div>
+                            <div class="blog-item-name">A Eficácia da Publicidade em Cenários de Crise</div>
+                            <p class="blog-item-summary">Descubra como a publicidade pode ser uma ferramenta efectiva em situações de crise, ajudando a manter a confiança e a marca</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/percepcao-de-valor-em-midias-sociais" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                
                                 
                             </div>
                             <div class="blog-item-category">marketing digital</div>
-                            <div class="blog-item-name">O Papel da Inteligência Artificial na Publicidade Out-of-Home: Casos de Sucesso</div>
-                            <p class="blog-item-summary">Descubra como a Inteligência Artificial dinamiza a publicidade Out-of-Home e melhorou resultados.</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-crise-da-autenticidade-como-marca" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/413.png" loading="lazy" alt="A Crise da Autenticidade como Marca" class="blog-thumbnail" />
-                                
-                            </div>
-                            <div class="blog-item-category">marca</div>
-                            <div class="blog-item-name">A Crise da Autenticidade como Marca</div>
-                            <p class="blog-item-summary">Entenda como a crise da autenticidade está afetando as marcas e como podem recuperar a credibilidade</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-importancia-da-experiencia-do-consumidor-na-publicidade-out-of-home-casos-de-sucesso" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/470.png" loading="lazy" alt="A Importância da Experiência do Consumidor na Publicidade Out-of-Home: Casos de Sucesso" class="blog-thumbnail" />
-                                
-                            </div>
-                            <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">A Importância da Experiência do Consumidor na Publicidade Out-of-Home: Casos de Sucesso</div>
-                            <p class="blog-item-summary">Descubra como a experiência do consumidor é fundamental na publicidade out-of-home e seus casos de sucesso</p>
+                            <div class="blog-item-name">Percepção de Valor em Mídias Sociais</div>
+                            <p class="blog-item-summary">Compreenda a importância da percepção de valor em meios sociais para a sua marca e empresa</p>
                         </a>
                     </div>
                     

@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,7 +97,7 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
+                        <img src='/static/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
                             Inviron
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/customized-advertising-by-audience-segmentation-on-social-networks" class="blog-item-wrap w-inline-block">
+                        <a href="/post/estrategias-de-valorizacao-do-conteudo" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">digital marketing</div>
-                            <div class="blog-item-name">Customized Advertising by Audience Segmentation on Social Networks</div>
-                            <p class="blog-item-summary">Understand how audience segmentation can improve the effectiveness of your social media advertising.</p>
+                            <div class="blog-item-category"></div>
+                            <div class="blog-item-name">Estratégias de Valorização do Conteúdo</div>
+                            <p class="blog-item-summary">Aprenda a valorizar e maximizar o valor do seu conteúdo</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/analise-de-desempenho-em-publicidade-digital-ferramentas-e-tecnicas" class="blog-item-wrap w-inline-block">
+                        <a href="/post/analysis-of-impact-of-advertising-in-real-estate-media-how-to-measure-success" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">marketing digital</div>
-                            <div class="blog-item-name">Análise de Desempenho em Publicidade Digital: Ferramentas e Técnicas</div>
-                            <p class="blog-item-summary">Aprenda a melhorar sua estratégia de publicidade digital com a análise de desempenho</p>
+                            <div class="blog-item-category">marketing strategies</div>
+                            <div class="blog-item-name">Analysis of Impact of Advertising in Real Estate Media: How to Measure Success</div>
+                            <p class="blog-item-summary">Why is advertising in real estate media important? Learn how to measure the success of your campaign and maximize your ROI</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/out-of-home-media-development-of-advertising-campaigns-in-public-spaces" class="blog-item-wrap w-inline-block">
+                        <a href="/post/o-impacto-da-sustentabilidade-nos-planos-de-marketing-de-out-of-home" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/481.png" loading="lazy" alt="O Impacto da Sustentabilidade nos Planos de Marketing de Out-of-Home" class="blog-thumbnail" />
                                 
                             </div>
-                            <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Out-of-Home Media: Development of Advertising Campaigns in Public Spaces</div>
-                            <p class="blog-item-summary">Unlock the potential of advertising campaigns in public spaces with out-of-home media. Learn how to create effective strategies and maximize results.</p>
+                            <div class="blog-item-category">out-of-home</div>
+                            <div class="blog-item-name">O Impacto da Sustentabilidade nos Planos de Marketing de Out-of-Home</div>
+                            <p class="blog-item-summary">Entenda como a sustentabilidade está mudando o jogo dos planos de marketing de Out-of-Home e como você pode se adaptar.</p>
                         </a>
                     </div>
                     

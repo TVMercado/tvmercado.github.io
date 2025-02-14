@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
+                        <img src='/static/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Nirooh
+                            IFS
                         </div>
                         <p>
-                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
+                            A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
                         </p>
-                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://www.ifspro.com.br/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/o-papel-da-experiencia-do-usuario-no-design-de-interfaces-de-usuario" class="blog-item-wrap w-inline-block">
+                        <a href="/post/desenvolvendo-comunidades-infantis-sustentaveis" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/498.png" loading="lazy" alt="O papel da experiência do usuário no design de interfaces de usuário" class="blog-thumbnail" />
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/394.png" loading="lazy" alt="Desenvolvendo Comunidades Infantís Sustentáveis" class="blog-thumbnail" />
                                 
                             </div>
-                            <div class="blog-item-category">audience engagement</div>
-                            <div class="blog-item-name">O papel da experiência do usuário no design de interfaces de usuário</div>
-                            <p class="blog-item-summary">Entenda como a experiência do usuário influencia o design de interfaces de usuário e como melhorá-la!</p>
+                            <div class="blog-item-category">sustentabilidade</div>
+                            <div class="blog-item-name">Desenvolvendo Comunidades Infantís Sustentáveis</div>
+                            <p class="blog-item-summary">Descubra como criar comunidades infantís sustentáveis com atividades em harmonia com o ambiente.</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/percepcao-de-valor-em-midias-digitais" class="blog-item-wrap w-inline-block">
+                        <a href="/post/rebranding-para-inovacao-uma-abordagem-sazonavel" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">engajamento</div>
-                            <div class="blog-item-name">Percepção de Valor em Mídias Digitais</div>
-                            <p class="blog-item-summary">Entenda como criar valor para seus clientes em meio às grandes quantidades de informação nas mídias digitais.</p>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">Rebranding para Inovação: Uma Abordagem Sazonável</div>
+                            <p class="blog-item-summary">Descubra como o rebranding pode impulsionar a inovação em sua empresa</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-influencia-da-experiencia-do-usuario-no-sucesso-de-uma-plataforma-de-comunicacao" class="blog-item-wrap w-inline-block">
+                        <a href="/post/rebranding-for-visibility" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/545.png" loading="lazy" alt="A Influência da Experiência do Usuário no Sucesso de uma Plataforma de Comunicação" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">colaboração</div>
-                            <div class="blog-item-name">A Influência da Experiência do Usuário no Sucesso de uma Plataforma de Comunicação</div>
-                            <p class="blog-item-summary">Entendendo o papel da experiência do usuário no sucesso de uma plataforma de comunicação</p>
+                            <div class="blog-item-category"></div>
+                            <div class="blog-item-name">Rebranding for Visibility</div>
+                            <p class="blog-item-summary">Learn how rebranding can boost your companys visibility</p>
                         </a>
                     </div>
                     

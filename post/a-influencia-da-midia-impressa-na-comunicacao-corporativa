@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
+                        <img src='/static/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            IFS
+                            Inviron
                         </div>
                         <p>
-                            A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
+                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
                         </p>
-                        <div class="button-wrap"><a href="https://www.ifspro.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/development-of-communication-scenarios-for-real-estate-media-the-art-of-connecting-with-the-public" class="blog-item-wrap w-inline-block">
+                        <a href="/post/managing-public-perception-during-times-of-crisis" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Development of Communication Scenarios for Real Estate Media: The Art of Connecting with the Public</div>
-                            <p class="blog-item-summary">Understand how to develop communication scenarios for real estate media and connect with your target audience</p>
+                            <div class="blog-item-category">crisis management</div>
+                            <div class="blog-item-name">Managing Public Perception during Times of Crisis</div>
+                            <p class="blog-item-summary">Crisis Communication: How to Manage Public Perception During Times of Crisis</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/the-effectiveness-of-advertising-communication-in-urban-environments" class="blog-item-wrap w-inline-block">
+                        <a href="/post/inovacao-sustentavel-para-a-juventude" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">Advertising Communication</div>
-                            <div class="blog-item-name">The Effectiveness of Advertising Communication in Urban Environments</div>
-                            <p class="blog-item-summary">Understand the importance of advertising communication in urban environments and how it can influence consumer decision-making.</p>
+                            <div class="blog-item-category">inovação</div>
+                            <div class="blog-item-name">Inovação Sustentável para a Juventude</div>
+                            <p class="blog-item-summary">Entenda como a inovação tecnológica e sustentável pode mudar o mundo e melhorar a vida da juventude</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/the-influence-of-sustainability-on-product-and-service-marketing" class="blog-item-wrap w-inline-block">
+                        <a href="/post/crisis-management-in-social-change-environments" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">sustainable marketing</div>
-                            <div class="blog-item-name">The Influence of Sustainability on Product and Service Marketing</div>
-                            <p class="blog-item-summary">Understand how sustainability is changing product and service marketing, and how your businesses can benefit from this movement.</p>
+                            <div class="blog-item-category">crisis</div>
+                            <div class="blog-item-name">Crisis Management in Social Change Environments</div>
+                            <p class="blog-item-summary">Understand how to cope with crises in socially changing environments</p>
                         </a>
                     </div>
                     

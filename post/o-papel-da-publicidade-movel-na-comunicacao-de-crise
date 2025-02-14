@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
+                        <img src='/static/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Inviron
+                            Nirooh
                         </div>
                         <p>
-                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
+                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
                         </p>
-                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-comunicacao-publicitaria-em-espacos-de-trabalho-impacto-na-cultura-corporativa" class="blog-item-wrap w-inline-block">
+                        <a href="/post/enhanced-customer-experience-digital-signage-technology-in-supermarkets" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/701.png" loading="lazy" alt="A Comunicação Publicitária em Espaços de Trabalho: Impacto na Cultura Corporativa" class="blog-thumbnail" />
-                                
-                            </div>
-                            <div class="blog-item-category">Comunicação Publicitária</div>
-                            <div class="blog-item-name">A Comunicação Publicitária em Espaços de Trabalho: Impacto na Cultura Corporativa</div>
-                            <p class="blog-item-summary">Entenda como a comunicacao publicitaria nos ambientes de trabalho pode afetar a cultura corporativa e melhorar a produtividade e o moral dos funcionarios.</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-influencia-da-realidade-aumentada-na-publicidade-out-of-home-casos-de-sucesso" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/476.png" loading="lazy" alt="A Influência da Realidade Aumentada na Publicidade Out-of-Home: Casos de Sucesso" class="blog-thumbnail" />
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/Designer3.jpeg" loading="lazy" alt="Enhanced Customer Experience: Digital Signage Technology in Supermarkets" class="blog-thumbnail" />
                                 
                             </div>
                             <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">A Influência da Realidade Aumentada na Publicidade Out-of-Home: Casos de Sucesso</div>
-                            <p class="blog-item-summary">Descubra como a Realidade Aumentada revolucionou a publicidade Out-of-Home com casos de sucesso!</p>
+                            <div class="blog-item-name">Enhanced Customer Experience: Digital Signage Technology in Supermarkets</div>
+                            <p class="blog-item-summary">Unlock the potential of customer experience with digital signage technology in supermarkets!</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/sustainability-in-changing-environments" class="blog-item-wrap w-inline-block">
+                        <a href="/post/estrategias-de-mitigacao-de-riscos-emergentes" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
                                 
                                 
                             </div>
-                            <div class="blog-item-category">environmental impact</div>
-                            <div class="blog-item-name">Sustainability in Changing Environments</div>
-                            <p class="blog-item-summary">Discover how to implement sustainable solutions in changing environments and improve efficiency in your operations.</p>
+                            <div class="blog-item-category">emergent risks</div>
+                            <div class="blog-item-name">Estratégias de Mitigação de Riscos Emergentes</div>
+                            <p class="blog-item-summary">Descubra as estratégias eficazes para lidar com riscos emergentes e proteger seu negócio</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/a-eficacia-da-publicidade-out-of-home-em-meios-de-transporte-oportunidades-e-desafios" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/900.png" loading="lazy" alt="A Eficácia da Publicidade Out-of-Home em Meios de Transporte: Oportunidades e Desafios" class="blog-thumbnail" />
+                                
+                            </div>
+                            <div class="blog-item-category">publicidade out-of-home</div>
+                            <div class="blog-item-name">A Eficácia da Publicidade Out-of-Home em Meios de Transporte: Oportunidades e Desafios</div>
+                            <p class="blog-item-summary">A publicidade Out-of-Home em meios de transporte é uma estratégia eficaz para alcançar público-alvo e aumentar a visibilidade da marca</p>
                         </a>
                     </div>
                     

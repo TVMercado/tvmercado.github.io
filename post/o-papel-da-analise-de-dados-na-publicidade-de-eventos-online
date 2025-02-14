@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
+                        <img src='/static/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            Nirooh
+                            Inviron
                         </div>
                         <p>
-                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
+                            Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
                         </p>
-                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://www.inviron.com.br/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/comunicacao-eficiente-em-ambientes-de-trabalho-remoto" class="blog-item-wrap w-inline-block">
+                        <a href="/post/knowledge-strategies-in-persuasive-advertising-on-social-networks" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/559.png" loading="lazy" alt="Comunicação Eficiente em Ambientes de Trabalho Remoto" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">sustainable marketing</div>
-                            <div class="blog-item-name">Comunicação Eficiente em Ambientes de Trabalho Remoto</div>
-                            <p class="blog-item-summary">Aprenda a melhorar a comunicação em equipes remotos</p>
+                            <div class="blog-item-category">Persuasive advertising</div>
+                            <div class="blog-item-name">Knowledge Strategies in Persuasive Advertising on Social Networks</div>
+                            <p class="blog-item-summary">Unlock the most effective techniques to create persuasive ad campaigns on social media.</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/estrategias-de-engajamento-para-valorizar-o-conteudo" class="blog-item-wrap w-inline-block">
+                        <a href="/post/midia-out-of-home-beneficios-para-empresas-e-consumidores" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/_784abe69-a5f4-45b9-9c33-e927e8a15ead.jfif" loading="lazy" alt="Estratégias de Engajamento para Valorizar o Conteúdo" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Estratégias de Engajamento para Valorizar o Conteúdo</div>
-                            <p class="blog-item-summary">Aprenda as estratégias de engajamento para valorizar o seu conteúdo e aumentar a participação dos seus usuários.</p>
+                            <div class="blog-item-category"></div>
+                            <div class="blog-item-name">Mídia Out-of-Home: Benefícios para Empresas e Consumidores</div>
+                            <p class="blog-item-summary">Descubra os benefícios da mídia out-of-home para empresas e consumidores.</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/analise-de-desempenho-de-campanhas-out-of-home-medindo-o-impacto-e-a-eficacia" class="blog-item-wrap w-inline-block">
+                        <a href="/post/the-importance-of-data-analysis-in-out-of-home-advertising" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/579.png" loading="lazy" alt="Análise de Desempenho de Campanhas Out-of-Home: Medindo o Impacto e a Eficácia" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">Publicidade</div>
-                            <div class="blog-item-name">Análise de Desempenho de Campanhas Out-of-Home: Medindo o Impacto e a Eficácia</div>
-                            <p class="blog-item-summary">Entenda como medir o impacto e a eficácia de suas campanhas Out-of-Home.</p>
+                            <div class="blog-item-category">out-of-home advertising</div>
+                            <div class="blog-item-name">The Importance of Data Analysis in Out-of-Home Advertising</div>
+                            <p class="blog-item-summary">Discover how data analysis can improve your out-of-home advertising.</p>
                         </a>
                     </div>
                     

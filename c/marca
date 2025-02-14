@@ -37,8 +37,8 @@
                 ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
         }(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
     <style>
         body {
             -moz-font-feature-settings: "liga" on;
@@ -66,7 +66,7 @@
         role="banner" class="navigation w-nav">
         <div class="navigation-container">
             <a href="/" class="logo w-inline-block">
-                <img src="/img/logo.png" width="294" alt="" class="image-logo" />
+                <img src="/static/img/logo.png" width="294" alt="" class="image-logo" />
             </a>
             <nav role="navigation" class="nav-menu w-nav-menu">
                 <a href='/c/marketing' class="navigation-link w-inline-block">
@@ -137,12 +137,12 @@
                         
                         <div class="collection-item-advertising">
                             <div>
-                                <img src='/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
+                                <img src='/static/img/anunciantes/inviron.jpg' loading="lazy" alt="Inviron"
                                     loading="lazy" width="233" class="image-2">
-                                <div class="advertiser_title">IFS</div>
-                                <div class="advertiser_subtitle" style="margin-bottom: 10;">A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
+                                <div class="advertiser_title">Inviron</div>
+                                <div class="advertiser_subtitle" style="margin-bottom: 10;">Especialista em soluções para digital signage e mídia indoor, como o software para gestão de conteúdos.
                                 </div>
-                                <a href="https://www.ifspro.com.br/" target="_blank" class="button-2 w-button">Conheça</a>
+                                <a href="https://www.inviron.com.br/" target="_blank" class="button-2 w-button">Conheça</a>
                             </div>
                         </div>
                         

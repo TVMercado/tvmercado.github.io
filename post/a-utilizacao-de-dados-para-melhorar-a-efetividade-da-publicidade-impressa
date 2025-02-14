@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,15 +97,15 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
+                        <img src='/static/img/anunciantes/nirooh.jpg' loading="lazy" alt="Nirooh"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
-                            IFS
+                            Nirooh
                         </div>
                         <p>
-                            A IFS atua em serviços de instalação, monitoramento, operação do canal e suporte remoto de telas e painéis de LED.
+                            Conectamos publishers e seus inventários a anunciantes com necessidades específicas.
                         </p>
-                        <div class="button-wrap"><a href="https://www.ifspro.com.br/" class="button w-button">Conheça</a>
+                        <div class="button-wrap"><a href="https://nirooh.com/" class="button w-button">Conheça</a>
                         </div>
                     </div>
                     
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/efeitos-da-crise-de-publicidade-nos-resultados-financeiros" class="blog-item-wrap w-inline-block">
+                        <a href="/post/improving-customer-experience-with-digital-signage" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/365.png" loading="lazy" alt="Efeitos da Crise de Publicidade nos Resultados Financeiros" class="blog-thumbnail" />
+                                
+                                
+                            </div>
+                            <div class="blog-item-category">customer experience</div>
+                            <div class="blog-item-name">Improving Customer Experience with Digital Signage</div>
+                            <p class="blog-item-summary">Learn how to improve customer experience with digital signaling technology</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/the-role-of-artificial-intelligence-in-personalized-advertising-on-social-media" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/_a1a15e89-043f-46f2-bb47-7a5a12e9bb72.jfif" loading="lazy" alt="The Role of Artificial Intelligence in Personalized Advertising on Social Media" class="blog-thumbnail" />
+                                
+                            </div>
+                            <div class="blog-item-category">artificial intelligence</div>
+                            <div class="blog-item-name">The Role of Artificial Intelligence in Personalized Advertising on Social Media</div>
+                            <p class="blog-item-summary">Discover the impact of AI on targeted advertisements and how it&#39;s changing the social media landscape</p>
+                        </a>
+                    </div>
+                    
+                    <div role="listitem" class="blog-cms-item w-dyn-item">
+                        <a href="/post/digital-signage-e-a-promocao-de-descontos-e-ofertas-especiais" class="blog-item-wrap w-inline-block">
+                            <div class="blog-thumbnail-wrap">
+                                
+                                
                                 
                             </div>
                             <div class="blog-item-category">marketing</div>
-                            <div class="blog-item-name">Efeitos da Crise de Publicidade nos Resultados Financeiros</div>
-                            <p class="blog-item-summary">Entenda como a crise de publicidade afeta os resultados financeiros das empresas</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/privacy-in-customized-advertising" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                
-                                
-                            </div>
-                            <div class="blog-item-category">data analysis</div>
-                            <div class="blog-item-name">Privacy in Customized Advertising</div>
-                            <p class="blog-item-summary">Discover how privacy is affected by personalized advertising policies</p>
-                        </a>
-                    </div>
-                    
-                    <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/o-impacto-da-midia-impressa-na-formacao-de-opiniao-publica" class="blog-item-wrap w-inline-block">
-                            <div class="blog-thumbnail-wrap">
-                                
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/1876.png" loading="lazy" alt="O Impacto da Mídia Impressa na Formação de Opinião Pública" class="blog-thumbnail" />
-                                
-                            </div>
-                            <div class="blog-item-category">Comunicação</div>
-                            <div class="blog-item-name">O Impacto da Mídia Impressa na Formação de Opinião Pública</div>
-                            <p class="blog-item-summary">A mídia impressa ainda exerce influência na formação de opinião pública, embora tenha perdido some em favor da mídia digital</p>
+                            <div class="blog-item-name">Digital Signage e a Promoção de Descontos e Ofertas Especiais</div>
+                            <p class="blog-item-summary">Descubra como o digital signage pode ser usado para promover descontos e ofertas especiais em seus negócios.</p>
                         </a>
                     </div>
                     

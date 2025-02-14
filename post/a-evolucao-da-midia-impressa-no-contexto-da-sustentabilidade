@@ -19,9 +19,8 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="og:type" content="blog" />
-    <meta name="twitter:site" content="@tur_ubatuba" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/static/css/ubatuba.css" rel="stylesheet" type="text/css" />
+    <link href="/static/css/post.css" rel="stylesheet" type="text/css" />
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -35,8 +34,8 @@
             (n.className += t + "js"), ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) && (n.className += t + "touch");
         })(window, document);
     </script>
-    <link href="/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="/img/favicon-32x32.png" rel="apple-touch-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="/static/img/favicon-32x32.png" rel="apple-touch-icon" />
 
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HEP1G6SWW"></script>
@@ -57,7 +56,7 @@
     <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
         role="banner" class="navbar w-nav">
         <div class="nav-container">
-            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/img/logo.png" alt="Turismo Ubatuba"
+            <a href="/" class="nav-logo-wrap w-nav-brand"><img src="/static/img/logo.png" alt="Turismo Ubatuba"
                     class="nav-logo" /></a>
             <div class="nav-right-wrap">
                 <nav role="navigation" class="nav-menu w-nav-menu">
@@ -98,7 +97,7 @@
                 <div>
                     
                     <div class="blog-post-side-banner">
-                        <img src='/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
+                        <img src='/static/img/anunciantes/ifs.jpg' loading="lazy" alt="IFS"
                             class="sidebar-logo" />
                         <div class="section-subtitle">
                             IFS
@@ -135,41 +134,41 @@
                     
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/communication-strategies-for-technology-companies" class="blog-item-wrap w-inline-block">
+                        <a href="/post/comunicacao-de-risco-em-meios-digitais" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/508.png" loading="lazy" alt="Comunicação de Risco em Meios Digitais" class="blog-thumbnail" />
                                 
                             </div>
-                            <div class="blog-item-category">digital marketing</div>
-                            <div class="blog-item-name">Communication Strategies for Technology Companies</div>
-                            <p class="blog-item-summary">Meet the best communication strategies for technology companies and improve your image in the market</p>
+                            <div class="blog-item-category">incerteza</div>
+                            <div class="blog-item-name">Comunicação de Risco em Meios Digitais</div>
+                            <p class="blog-item-summary">Entenda como a comunicação de risco em meios digitais é crucial para a segurança e a confiança em transações online</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-influencia-da-era-digital-na-formacao-de-opiniao-publica" class="blog-item-wrap w-inline-block">
+                        <a href="/post/a-influencia-da-sustentabilidade-na-comunicacao-publicitaria-de-marca" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/1856.png" loading="lazy" alt="A Influência da Era Digital na Formação de Opinião Pública" class="blog-thumbnail" />
+                                <img src="https://img.sociap.com.br/digitalsignage/posts/700.png" loading="lazy" alt="A Influência da Sustentabilidade na Comunicação Publicitária de Marca" class="blog-thumbnail" />
                                 
                             </div>
-                            <div class="blog-item-category">Comunicação</div>
-                            <div class="blog-item-name">A Influência da Era Digital na Formação de Opinião Pública</div>
-                            <p class="blog-item-summary">Entenda como a era digital está mudando a forma como as pessoas formam opiniões e são influenciados.</p>
+                            <div class="blog-item-category">Comunicação Publicitária</div>
+                            <div class="blog-item-name">A Influência da Sustentabilidade na Comunicação Publicitária de Marca</div>
+                            <p class="blog-item-summary">A influência da sustentabilidade na comunicação publicitária de marca: como a responsabilidade ambiental e social está mudando a forma como as marcas se apresentam</p>
                         </a>
                     </div>
                     
                     <div role="listitem" class="blog-cms-item w-dyn-item">
-                        <a href="/post/a-inteligencia-artificial-como-ferramenta-para-a-analise-de-dados-em-saude-publica" class="blog-item-wrap w-inline-block">
+                        <a href="/post/rebranding-for-renewal" class="blog-item-wrap w-inline-block">
                             <div class="blog-thumbnail-wrap">
                                 
-                                <img src="https://img.sociap.com.br/digitalsignage/posts/678.png" loading="lazy" alt="A Inteligência Artificial como Ferramenta para a Análise de Dados em Saúde Pública" class="blog-thumbnail" />
+                                
                                 
                             </div>
-                            <div class="blog-item-category">AI</div>
-                            <div class="blog-item-name">A Inteligência Artificial como Ferramenta para a Análise de Dados em Saúde Pública</div>
-                            <p class="blog-item-summary">A inteligência artificial é uma ferramenta poderosa para ajudar a analisar dados em saúde pública e melhorar a tomada de decisões.</p>
+                            <div class="blog-item-category">marketing</div>
+                            <div class="blog-item-name">Rebranding for Renewal</div>
+                            <p class="blog-item-summary">Discover how rebranding can revive your companys brand</p>
                         </a>
                     </div>
                     
